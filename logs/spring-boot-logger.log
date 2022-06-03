@@ -1,0 +1,9 @@
+2022-06-03 16:03:45,841 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting DemoApplication using Java 11.0.15 on bits with PID 215990 (/home/robin/Desktop/learn_springboot/springboot-logging-log4j-baeldung-tutorial/target/classes started by robin in /home/robin/Desktop/learn_springboot/springboot-logging-log4j-baeldung-tutorial)
+2022-06-03 16:03:45,842 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-03 16:03:45,843 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-06-03 16:03:47,656 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started DemoApplication in 2.536 seconds (JVM running for 3.312)
+2022-06-03 16:04:29,998 TRACE com.example.demo.LoggingController [http-nio-8080-exec-1] a trace message
+2022-06-03 16:04:30,000 DEBUG com.example.demo.LoggingController [http-nio-8080-exec-1] a debug message
+2022-06-03 16:04:30,005 INFO com.example.demo.LoggingController [http-nio-8080-exec-1] an info message
+2022-06-03 16:04:30,007 WARN com.example.demo.LoggingController [http-nio-8080-exec-1] a warn message
+2022-06-03 16:04:30,007 ERROR com.example.demo.LoggingController [http-nio-8080-exec-1] an error message

@@ -1,0 +1,14 @@
+2022-06-03 17:22:43,949 INFO o.s.b.StartupInfoLogger [restartedMain] Starting DemoApplication using Java 11.0.15 on bits with PID 222178 (/home/robin/Desktop/learn_springboot/springboot-logging-log4j-baeldung-tutorial/target/classes started by robin in /home/robin/Desktop/learn_springboot/springboot-logging-log4j-baeldung-tutorial)
+2022-06-03 17:22:43,956 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-03 17:22:43,957 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-06-03 17:22:45,549 INFO o.s.b.StartupInfoLogger [restartedMain] Started DemoApplication in 2.315 seconds (JVM running for 3.331)
+2022-06-03 17:22:48,681 TRACE c.e.d.LombokLoggingController [http-nio-8080-exec-1] a trace message
+2022-06-03 17:22:48,682 DEBUG c.e.d.LombokLoggingController [http-nio-8080-exec-1] a debug message
+2022-06-03 17:22:48,682 INFO c.e.d.LombokLoggingController [http-nio-8080-exec-1] an info message
+2022-06-03 17:22:48,682 WARN c.e.d.LombokLoggingController [http-nio-8080-exec-1] a warn message
+2022-06-03 17:22:48,683 ERROR c.e.d.LombokLoggingController [http-nio-8080-exec-1] an error message
+2022-06-03 17:23:30,919 TRACE c.e.d.LombokLoggingController [http-nio-8080-exec-2] a trace message
+2022-06-03 17:23:30,920 DEBUG c.e.d.LombokLoggingController [http-nio-8080-exec-2] a debug message
+2022-06-03 17:23:30,920 INFO c.e.d.LombokLoggingController [http-nio-8080-exec-2] an info message
+2022-06-03 17:23:30,920 WARN c.e.d.LombokLoggingController [http-nio-8080-exec-2] a warn message
+2022-06-03 17:23:30,920 ERROR c.e.d.LombokLoggingController [http-nio-8080-exec-2] an error message
